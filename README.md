@@ -1,2 +1,1 @@
-# Scratch-Projects-of-mine
-Why not...
+# Scratch Projects of mine
