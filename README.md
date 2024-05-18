@@ -7,4 +7,4 @@ Have you ever been annoyed of just having to insert spaces in every single lette
 
 Well now it can be automated with this softare (though in certain situations it's faster to do it manually)!
 
-That's all.
+And if you don't want to download another piece of software (HTML code technically) just for it to take up storage? There is a web version for it!
