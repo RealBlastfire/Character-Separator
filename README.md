@@ -7,4 +7,8 @@ Have you ever been annoyed of just having to insert spaces in every single lette
 
 Well now it can be automated with this software (though in certain situations it's faster to do it manually)!
 
-And if you don't want to download another piece of software (HTML code technically) just for it to take up storage? There is a web version of it!
+And if you don't want to download another piece of software (HTML code technically) just for it to take up storage? There is a web version of it:
+
+https://realblastfire.github.io/Character-Separator/
+
+(It was literally near the description anyway lmfao)
